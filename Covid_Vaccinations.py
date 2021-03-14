@@ -89,4 +89,4 @@ layout = dict(title={
             'yanchor': 'top'})
 fig4 = go.Figure(data = trace4, layout = layout)
 
-plot(fig4)
+iplot(fig4)
